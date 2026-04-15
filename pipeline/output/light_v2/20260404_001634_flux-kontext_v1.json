@@ -1,0 +1,15 @@
+{
+  "prompt": "premium Apple product photography, transparent glass enclosure revealing colorful internal components, sapphire blue pressure tanks, copper piping, gunmetal chrome fuel cells, brushed titanium frame, three-point studio lighting with soft key light and subtle rim light, shallow depth of field with bokeh, clean bright white studio background, 8k editorial product shot",
+  "model": "flux-kontext",
+  "endpoint": "fal-ai/flux-pro/kontext",
+  "cost": 0.04,
+  "aspect_ratio": "16:9",
+  "image_refs": [
+    "pipeline/refs/solid/01_hero_3quarter.png"
+  ],
+  "image_weight": 0.85,
+  "style_refs": null,
+  "style_weight": 0.8,
+  "output": "pipeline/output/light_v2/20260404_001634_flux-kontext_v1.jpg",
+  "timestamp": "20260404_001634"
+}

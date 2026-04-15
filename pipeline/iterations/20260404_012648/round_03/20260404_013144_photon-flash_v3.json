@@ -1,0 +1,15 @@
+{
+  "prompt": "add materials to the individual components to add cinematic realism, and also deoth of fie",
+  "model": "photon-flash",
+  "endpoint": "fal-ai/luma-photon/flash",
+  "cost": 0.005,
+  "aspect_ratio": "16:9",
+  "image_refs": [
+    "pipeline/iterations/20260404_012648/round_01/20260404_012653_flux-kontext_v3.jpg"
+  ],
+  "image_weight": 0.85,
+  "style_refs": null,
+  "style_weight": 0.8,
+  "output": "pipeline/iterations/20260404_012648/round_03/20260404_013144_photon-flash_v3.jpg",
+  "timestamp": "20260404_013144"
+}

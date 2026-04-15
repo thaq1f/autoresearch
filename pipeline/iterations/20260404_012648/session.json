@@ -1,0 +1,19 @@
+{
+  "session_id": "20260404_012648",
+  "initial_prompt": "add photorealistic materials and studio lighting",
+  "total_cost": 0.19999999999999998,
+  "rounds": [
+    {
+      "round": 1,
+      "status": "kept",
+      "winner": "pipeline/iterations/20260404_012648/round_01/20260404_012653_flux-kontext_v3.jpg",
+      "model": "flux-kontext",
+      "prompt": "add photorealistic materials and studio lighting"
+    },
+    {
+      "round": 2,
+      "status": "rejected",
+      "model": "photon-flash"
+    }
+  ]
+}
