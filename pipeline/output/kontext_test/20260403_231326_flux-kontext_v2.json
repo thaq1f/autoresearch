@@ -1,0 +1,13 @@
+{
+  "prompt": "enhance this engineering render with photorealistic materials, add cinematic studio lighting with subtle volumetric fog, keep exact same container structure and transparent shell with visible internal components",
+  "model": "flux-kontext",
+  "endpoint": "fal-ai/flux-pro/kontext",
+  "cost": 0.04,
+  "aspect_ratio": "16:9",
+  "image_refs": [
+    "/Users/thaqif/Projects/limpahan/render_output/frame_1981.png"
+  ],
+  "image_weight": 0.85,
+  "output": "pipeline/output/kontext_test/20260403_231326_flux-kontext_v2.jpg",
+  "timestamp": "20260403_231326"
+}

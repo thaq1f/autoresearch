@@ -1,0 +1,19 @@
+{
+  "prompt": "photorealistic product photography, modular hydrogen container, studio lighting, dark background, keep exact same structure and components",
+  "model": "photon",
+  "endpoint": "fal-ai/luma-photon",
+  "cost": 0.015,
+  "aspect_ratio": "16:9",
+  "image_refs": [
+    "pipeline/refs/solid/02_front.png"
+  ],
+  "image_weight": 0.9,
+  "style_refs": [
+    "pipeline/styles/f698c3a5b03596abbd462b1df03d03e3.jpg",
+    "pipeline/styles/3276864c4218848d27ec9cdb82459073.jpg",
+    "pipeline/styles/72782abc1cd0c9f3a5fb72eca753c9ec.jpg"
+  ],
+  "style_weight": 0.8,
+  "output": "pipeline/output/runs/run_002/02_front/20260404_001058_photon_v1.jpg",
+  "timestamp": "20260404_001058"
+}

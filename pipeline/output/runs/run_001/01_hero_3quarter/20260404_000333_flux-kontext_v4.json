@@ -1,0 +1,15 @@
+{
+  "prompt": "enhance this engineering render with photorealistic materials, studio product photography lighting, subtle volumetric fog, dark background, keep exact same structure and components",
+  "model": "flux-kontext",
+  "endpoint": "fal-ai/flux-pro/kontext",
+  "cost": 0.04,
+  "aspect_ratio": "16:9",
+  "image_refs": [
+    "pipeline/refs/solid/01_hero_3quarter.png"
+  ],
+  "image_weight": 0.85,
+  "style_refs": null,
+  "style_weight": 0.8,
+  "output": "pipeline/output/runs/run_001/01_hero_3quarter/20260404_000333_flux-kontext_v4.jpg",
+  "timestamp": "20260404_000333"
+}

@@ -1,0 +1,15 @@
+{
+  "prompt": "make photorealistic: blue steel pressure tanks, copper piping, brushed aluminum frame, dark gunmetal panels, transparent glass side walls, studio lighting",
+  "model": "flux-kontext",
+  "endpoint": "fal-ai/flux-pro/kontext",
+  "cost": 0.04,
+  "aspect_ratio": "16:9",
+  "image_refs": [
+    "pipeline/refs/solid/01_hero_3quarter.png"
+  ],
+  "image_weight": 0.85,
+  "style_refs": null,
+  "style_weight": 0.8,
+  "output": "pipeline/output/textured_test/20260404_002030_flux-kontext_v4.jpg",
+  "timestamp": "20260404_002030"
+}
